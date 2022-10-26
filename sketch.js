@@ -123,7 +123,7 @@ function draw() {
     gameState = "lost"
   }
 
-  if(score === 20){
+  if(score === 50){
     
     winState()
   }
